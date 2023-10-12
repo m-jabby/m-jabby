@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m-jabby
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, etc. 
+- 👋 Hi, I’m Mahamad J.
+- 👀 I’m an aspiring Wed Developer.
+- 🌱 I’m currently learning HTML, CSS, JavaScript ... 
 - 💞️ I’m looking to collaborate and learn.
 - 📫 How to reach me ...
 
